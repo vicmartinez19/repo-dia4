@@ -1,11 +1,15 @@
-# Mi repo del dia 4
+**Tu primer README** (colócalo en tu repo)
 
-# Título H1
-## Título H2
-**negritas** y *cursivas*
-- listas
-1. listas numeradas
-`código en línea`
-```bash
-# bloque de código
-ls -la
+# Proyecto Día 4
+
+## Objetivo
+Practicar Terminal, Git, Node y Markdown.
+
+## Pasos
+1. Crear carpeta y archivos desde Terminal.
+2. Inicializar repo y hacer el primer commit.
+3. Verificar Node y npm.
+
+## Evidencias
+- Capturas de Terminal y DevTools (si aplica)
+- Enlace a imgur con screenshots
