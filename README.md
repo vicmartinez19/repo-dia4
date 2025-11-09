@@ -1,5 +1,3 @@
-**Tu primer README** (colócalo en tu repo)
-
 # Proyecto Día 4
 
 ## Objetivo
