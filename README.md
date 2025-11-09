@@ -1,6 +1,5 @@
 # Mi repo del dia 4
-### hello moto 
-hola
+
 # Título H1
 ## Título H2
 **negritas** y *cursivas*
